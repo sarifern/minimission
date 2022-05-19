@@ -2,7 +2,7 @@
 
 ## Description
 
-I have the following list of IPs
+I have the following list of prohibited IPs
 
 10.99.14.5
 192.168.1.44
